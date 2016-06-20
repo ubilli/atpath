@@ -17,7 +17,7 @@ Using the **@path** typology in your route it will be
         return view('main_app.completereg');
     });
 
-with depper sub links
+with depper sub links www.example.com/register@complete
 
 **For example (The Traditional way)**
 www.example.com/dashboard/user/profile/
@@ -27,12 +27,13 @@ Using the **@path** typology in your route it will be
     Route::get('dashboard@user@profile', function () {
             return view('main_app.dashboard.profile');
         });
+        
+www.example.com/dashboard@user@profile
 
 **Why should i use the @path?**
 
  - It is way more cooler for your users to understand the deep url paths
  - It make your URLs one page only.
  - Your can add more to this list, if you think it is way cooler just email (udemesamuel256[at]gmail.com)  i will review it and add it to the list. 
- - 
  
 There is no code to fork here, just apply the methodology to your codebase, and always comeback to tell us how cool or uncool it was.
