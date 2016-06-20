@@ -33,3 +33,6 @@ Using the **@path** typology in your route it will be
  - It is way more cooler for your users to understand the deep url paths
  - It make your URLs one page only.
  - Your can add more to this list, if you think it is way cooler just email (udemesamuel256[at]gmail.com)  i will review it and add it to the list. 
+ - 
+ 
+There is no code to fork here, just apply the methodology to your codebase, and always comeback to tell us how cool or uncool it was.
